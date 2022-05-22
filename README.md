@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning information security
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me mazuan3 [alias] gmail.com
+- 📫 How to reach me nimbus_virtual0s [alias] icloud.com
 
 <!---
 azuuan/azuuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
